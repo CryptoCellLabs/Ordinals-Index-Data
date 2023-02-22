@@ -1,2 +1,2 @@
-# Ordinals-Index-Data
+# Ordinals Index Data
 Ordinals Index Data
