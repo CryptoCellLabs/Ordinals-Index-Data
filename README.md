@@ -17,6 +17,14 @@ Index.redb更新到Bitcoin全节点839816区块高度(2024/04/19)
 
 链接：https://pan.quark.cn/s/8b0851383fda
 
+下载后请校验index.redb文件的SHA256，以便核对文件完整性
+File: 
+index.redb
+
+SHA256:
+3a49d1047b6585485deef676b382d2dce5088b2d247694afc649fa4a03aba8e3
+
+----------------------------
 Bitcoin 全节点数据（更新到2024/04/19）
 https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data 
 
