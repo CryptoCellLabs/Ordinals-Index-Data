@@ -1,13 +1,11 @@
 # Ordinals Index Data (2024/04/21 - height 840178)
 # Ordinals Index Data索引文件 (2024/04/21 - 区块高度 840178)
 
-<img width="1436" alt="ord-index" src="https://github.com/CryptoCellLabs/Ordinals-Index-Data/assets/110719019/cd41ba93-b9a9-4fda-8846-417841caff8b">
-
 Ordinals Index Data
 
 Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 
-Index.redb updated to block height 839816 of Bitcoin full node (2024/04/21)
+Index.redb updated to block height 840178 of Bitcoin full node (2024/04/21)
 Link: https://pan.quark.cn/s/8b0851383fda
 
 Bitcoin Full Node Data(2024/04/21)
@@ -16,7 +14,7 @@ https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data
 --------------------------
 Ordinals索引数据文件Index.redb（Ordinals Index Data Index.redb）
 
-Index.redb更新到Bitcoin全节点839816区块高度(2024/04/21)
+Index.redb更新到Bitcoin全节点840178区块高度(2024/04/21)
 
 链接：https://pan.quark.cn/s/8b0851383fda
 
