@@ -85,9 +85,13 @@ Info:
 error: JSON-RPC error: transport error: Couldn't connect to host: An established connection was aborted by the software in your host machine. (os error 10053)
 
 FIX:
+
 1.Run ord
+
 2.Then crtl+c shutdown ord when the index was just a few hundred blocks away from the problematic block.
+
 3.Run ord again
+
  
 -------------------
 Ordinals最新消息（Ordinals News）
