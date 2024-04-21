@@ -1,5 +1,5 @@
-# Ordinals Index Data (2024/04/19 - height 839816/Included index-sats data))
-# Ordinals Index Data索引文件 (2024/04/19 - 区块高度 839816/包含index-sats数据)
+# Ordinals Index Data (2024/04/21 - height 840178)
+# Ordinals Index Data索引文件 (2024/04/21 - 区块高度 840178)
 
 <img width="1436" alt="ord-index" src="https://github.com/CryptoCellLabs/Ordinals-Index-Data/assets/110719019/cd41ba93-b9a9-4fda-8846-417841caff8b">
 
@@ -7,29 +7,22 @@ Ordinals Index Data
 
 Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 
-Index.redb updated to block height 839816 of Bitcoin full node (2024/04/19)
+Index.redb updated to block height 839816 of Bitcoin full node (2024/04/21)
 Link: https://pan.quark.cn/s/8b0851383fda
 
-Bitcoin Full Node Data(2024/04/19)
+Bitcoin Full Node Data(2024/04/21)
 https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data 
 
 --------------------------
-
 Ordinals索引数据文件Index.redb（Ordinals Index Data Index.redb）
 
-Index.redb更新到Bitcoin全节点839816区块高度(2024/04/19)
+Index.redb更新到Bitcoin全节点839816区块高度(2024/04/21)
 
 链接：https://pan.quark.cn/s/8b0851383fda
 
 下载后请校验index.redb文件的SHA256，以便核对文件完整性
-File: 
-index.redb
-
-SHA256:
-3a49d1047b6585485deef676b382d2dce5088b2d247694afc649fa4a03aba8e3
-
 ----------------------------
-Bitcoin 全节点数据（更新到2024/04/19）
+Bitcoin 全节点数据（更新到2024/04/21）
 https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data 
 
 Ordinals/Runes铭文教程（含Bitcoin全节点数据/Bitcoin Index数据/ORD Runes Index数据）
@@ -87,6 +80,18 @@ ord.exe --cookie-file "Ｅ:\bitcoin\block\.cookie"  --data-dir "E:\bitcoin\ord" 
 
 -index-runes index update 更新索引的命令
 
+-------------------
+HOW TO FIX "os error 10053" when creating ord index?
+
+Info:
+error: JSON-RPC error: transport error: Couldn't connect to host: An established connection was aborted by the software in your host machine. (os error 10053)
+
+FIX:
+1.Run ord
+2.Then crtl+c shutdown ord when the index was just a few hundred blocks away from the problematic block.
+3.Run ord again
+ 
+-------------------
 Ordinals最新消息（Ordinals News）
 Twitter 
 https://twitter.com/CryptoCellLabs 
