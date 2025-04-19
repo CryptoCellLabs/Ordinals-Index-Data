@@ -6,7 +6,10 @@ Ordinals Index Data
 Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 
 Index.redb updated to block height 892917 of Bitcoin full node (2025/04/18)
-Link: https://pan.quark.cn/s/8b0851383fda
+
+链接：https://pan.quark.cn/s/b5136263ebd9
+
+提取码：4SEy
 
 ![Ord Index Block-892917](https://github.com/user-attachments/assets/c001b0bc-2a2d-49f9-87bf-c4b02b282555)
 
@@ -17,7 +20,9 @@ Ordinals索引数据文件Index.redb（Ordinals Index Data Index.redb）
 
 Index.redb更新到Bitcoin全节点892917区块高度(2025/04/18)
 
-链接：https://pan.quark.cn/s/8b0851383fda
+链接：https://pan.quark.cn/s/b5136263ebd9
+
+提取码：4SEy
 
 
 
