@@ -1,46 +1,33 @@
-# Ordinals Index Data (2024/04/21 - height 840178)
-# Ordinals Index Data索引文件 (2024/04/21 - 区块高度 840178)
+# Ordinals Index Data (2025/04/18 - height 892917)
+# Ordinals Index Data索引文件 (2025/04/18 - 区块高度 892917)
 
 Ordinals Index Data
 
 Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 
-Index.redb updated to block height 840178 of Bitcoin full node (2024/04/21)
+Index.redb updated to block height 892917 of Bitcoin full node (2025/04/18)
 Link: https://pan.quark.cn/s/8b0851383fda
 
-Bitcoin Full Node Data(2024/04/21)
-https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data 
+
 
 --------------------------
 Ordinals索引数据文件Index.redb（Ordinals Index Data Index.redb）
 
-Index.redb更新到Bitcoin全节点840178区块高度(2024/04/21)
+Index.redb更新到Bitcoin全节点892917区块高度(2025/04/18)
 
 链接：https://pan.quark.cn/s/8b0851383fda
 
-下载后请校验index.redb文件的SHA256，以便核对文件完整性
-----------------------------
-Bitcoin 全节点数据（更新到2024/04/21）
-https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data 
 
-Ordinals/Runes铭文教程（含Bitcoin全节点数据/Bitcoin Index数据/ORD Runes Index数据）
-https://mirror.xyz/cryptocelllabs.eth/HZKYY-0o23GllhstDHzgiC6De4rzWJ6Dr2y8lDnY3bI
 
 --------------------------
 
-目前BTC全节点完整数据在700G左右了，如果自行同步比较慢的话，可以直接去下面地址的网盘下载 Bitcoin全节点完整数据 – 更新到2024年4月19日 ，包含如下数据：
-
-1、Bitcoin全节点数据（大约690G）
-
-2、Bitcoin全节点Index索引数据（大约70G）
-
-3、Ordinals/Runes Index索引数据（大约200G）
+目前BTC全节点完整数据在700G左右了，如果自行同步比较慢的话，可以直接去下面地址的网盘下载 Bitcoin全节点完整数据
 
 https://github.com/CryptoCellLabs/Bitcoin_FullNode_Data
 
 或者关注Twitter https://twitter.com/CryptoCellLabs
 
-Ordinals Runes Index DB数据大约200G，同样可以在上面的网盘下载
+Ordinals Runes Index DB数据大约70G，同样可以在上面的网盘下载
 
 由于Bitcoin全节点数据 + Bitcoin全节点索引Index数据 + Ordinals/Runes Index数据 已经接近1T了，如果需要快速完成这个操作可以直接购买我们存储在机械硬盘中的上述三类数据，拿到快递的硬盘后，你需要准备一个2T的SSD来将这些数据从机械硬盘拷贝过去，因为只有SSD的读写速度才是最佳的。
 
